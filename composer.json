@@ -1,0 +1,13 @@
+{
+    "name": "ato/bu-shop",
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Santo Blasius",
+            "email": "sntblasius@gmail.com"
+        }
+    ]
+}
