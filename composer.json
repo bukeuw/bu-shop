@@ -4,6 +4,9 @@
         "phpunit/phpunit": "^8.2"
     },
     "license": "MIT",
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    },
     "authors": [
         {
             "name": "Santo Blasius",
